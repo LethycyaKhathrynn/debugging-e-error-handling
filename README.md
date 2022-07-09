@@ -1,2 +1,2 @@
-# debugging-e-error-handling
- dio tqi fullstack
+Bootcamp DIO TQI Fullstack
+Curso: Debugging e Error Handling
