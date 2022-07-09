@@ -1,2 +1,5 @@
 Bootcamp DIO TQI Fullstack
-Curso: Debugging e Error Handling
+Curso: Debbuging e error handling
+Módulo III: JavaScript
+Digital Innovation One
+
